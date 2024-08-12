@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "701969019453",
+    "project_id": "virse-7c0c8",
+    "storage_bucket": "virse-7c0c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701969019453:android:94324d747b6793f0697054",
+        "android_client_info": {
+          "package_name": "com.example.virse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj481e0zRpsp2ktI6JjffjPMy8L6r7_0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
